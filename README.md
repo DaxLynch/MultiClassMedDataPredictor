@@ -1,1 +1,1 @@
-I completed this for my CS 472 course on AI. In this project I implement a classifier network and perform lots of tests to optimize hyperparameters. 
+I completed this for my CS 472 course on AI. In this project I implement a classifier network and perform lots of tests to optimize hyperparameters. I made a lot of graphs showing how training progresses due to variations in hyperparameters.
